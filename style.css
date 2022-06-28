@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: 0px;
+}
+
+body {
+    height: 80vh;
+    width: 60vw;
+    margin: auto;
+    margin-top: 30px;
+}
+
+p {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+header {
+    background-color: red;
+    height: 15vh;
+}
+
+nav {
+    background-color: blue;
+    height: 10vh;
+}
+
+aside {
+    background-color: yellow;
+    float: left;
+    height: 40vh;
+    width: 25%;
+}
+
+main {
+    background-color: gray;
+    height: 40vh;
+    width: 100%;
+}
+
+footer {
+    background-color: rgb(46, 43, 43);
+    height: 15vh;
+}
